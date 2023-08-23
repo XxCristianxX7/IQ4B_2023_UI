@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(255, 0, 0);
+}
+p{
+    border-radius: 10px;
+}
+div{
+    color:green;
+}
+.boton{
+    border: 1px solid red;
+}
