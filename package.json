@@ -1,0 +1,20 @@
+{
+  "name": "introduccion",
+  "version": "1.0.0",
+  "description": "Practica para el control de versiones",
+  "main": "operaciones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "convertir":"sass EstiloPrincipal.scss EstiloPrincipal.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XxCristianxX7/IQ4B_2023_UI.git"
+  },
+  "author": "Cristian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XxCristianxX7/IQ4B_2023_UI/issues"
+  },
+  "homepage": "https://github.com/XxCristianxX7/IQ4B_2023_UI#readme"
+}
